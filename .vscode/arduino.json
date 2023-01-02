@@ -1,0 +1,5 @@
+{
+    "sketch": "ContRemotoInfrarojo.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}
